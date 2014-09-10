@@ -20,4 +20,5 @@
 - (NSURL *)applicationDocumentsDirectory;
 - (void)hello;
 - (void)test;
+- (void)haha;
 @end
