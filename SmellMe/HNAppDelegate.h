@@ -21,4 +21,5 @@
 - (void)hello;
 - (void)test;
 - (void)haha;
+- (void)haha2;
 @end
