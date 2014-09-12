@@ -10,13 +10,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SmellMe/HNAppDelegate.h"
-            timestampString = "430742026.686744"
+            timestampString = "432185085.481311"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
-            landmarkName = "-test"
-            landmarkType = "4">
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "@interface HNAppDelegate"
+            landmarkType = "2">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
