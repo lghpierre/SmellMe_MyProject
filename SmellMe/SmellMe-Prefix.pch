@@ -34,7 +34,7 @@
 #endif
 ////-------------------打印日志-------------------------
 
-
+    
 //去最新页面头图片地址
 #define GETBANNERPICLIST @"http://www.coolguy.cn/banner/getBannerPicList.json?cp=0&re=0&ke=masterzhao"
 #define GETNEWSPICLIST @"http://www.coolguy.cn/pic/getPicBymeng.json?cp=0&re=0&ke=masterzhao"
